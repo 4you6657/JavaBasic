@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIs/APIs.iml" filepath="$PROJECT_DIR$/APIs/APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File-IOStream/File-IOStream.iml" filepath="$PROJECT_DIR$/File-IOStream/File-IOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospitalAppointmentSystem/HospitalAppointmentSystem.iml" filepath="$PROJECT_DIR$/HospitalAppointmentSystem/HospitalAppointmentSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK8-Stream/JDK8-Stream.iml" filepath="$PROJECT_DIR$/JDK8-Stream/JDK8-Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Premium/OOP-Premium.iml" filepath="$PROJECT_DIR$/OOP-Premium/OOP-Premium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro-app/Pro-app.iml" filepath="$PROJECT_DIR$/Pro-app/Pro-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/Regex.iml" filepath="$PROJECT_DIR$/Regex/Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-algorithm/basic-algorithm.iml" filepath="$PROJECT_DIR$/basic-algorithm/basic-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-app/basic-app.iml" filepath="$PROJECT_DIR$/basic-app/basic-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld-app/helloworld-app.iml" filepath="$PROJECT_DIR$/helloworld-app/helloworld-app.iml" />
+    </modules>
+  </component>
+</project>
