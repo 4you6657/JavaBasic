@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0af72fad-24ef-49d4-97a8-7654b4661ec4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File-IOStream/src/com/yangtze/IOStream/FileByteIOStream/TEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/File-IOStream/src/com/yangtze/IOStream/FileByteIOStream/FileByteInputStream/ReadOneByte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File-IOStream/src/yangtzeUniversity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/File-IOStream/src/yangtzeUniversity.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/File-IOStream/com/yangtze/IOStream/FileByteIOStream/TEST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/File-IOStream/yangtzeUniversity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/File-IOStream/yangtzeUniversity.txt" afterDir="false" />
-    </list>
+    <list default="true" id="0af72fad-24ef-49d4-97a8-7654b4661ec4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +197,7 @@
       <workItem from="1718629511791" duration="506000" />
       <workItem from="1718684929500" duration="14314000" />
       <workItem from="1718703839678" duration="6403000" />
-      <workItem from="1718766424877" duration="2994000" />
+      <workItem from="1718766424877" duration="3150000" />
     </task>
     <servers />
   </component>
