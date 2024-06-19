@@ -1,8 +1,8 @@
-package com.yangtze.IOStream.FileByteIOStream;
+package com.yangtze.IOStream.FileByteIOStream.FileByteInputStream;
 
 import java.io.*;
 
-public class TEST {
+public class ReadOneByte {
     /*
         文件字节输入流（FileInputStream）
             作用：以内存为基准，可以把磁盘文件中的数据以字节的形式读入到内存中去。
@@ -49,5 +49,10 @@ public class TEST {
             注意事项
                 - 使用FileInputStream每次读取一个字节，读取性能较差，并且读取汉字输出会乱码。
          */
+
+
+
+
+
     }
 }

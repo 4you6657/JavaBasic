@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0af72fad-24ef-49d4-97a8-7654b4661ec4" name="Changes" comment="" />
+    <list default="true" id="0af72fad-24ef-49d4-97a8-7654b4661ec4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File-IOStream/src/com/yangtze/IOStream/FileByteIOStream/TEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/File-IOStream/src/com/yangtze/IOStream/FileByteIOStream/FileByteInputStream/ReadOneByte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File-IOStream/src/yangtzeUniversity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/File-IOStream/src/yangtzeUniversity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/File-IOStream/com/yangtze/IOStream/FileByteIOStream/TEST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/File-IOStream/yangtzeUniversity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/File-IOStream/yangtzeUniversity.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,25 +55,25 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/IDEAProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15269886",
-    "project.structure.side.proportion": "0.16946308",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/JavaStudy/JavaBasic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15269886&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.16946308&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.yangtze.StreamMethods" />
@@ -78,13 +84,13 @@
       <recent name="com.yangtze.references.staticMethodReferences" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TEST">
-    <configuration name="BeerProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangtze.File.demo.BeerProb" />
+  <component name="RunManager" selected="Application.FileCopy">
+    <configuration name="FileByteOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangtze.IOStream.FileByteIOStream.FileByteOutputStream.FileByteOutputStream" />
       <module name="File-IOStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangtze.File.demo.*" />
+          <option name="PATTERN" value="com.yangtze.IOStream.FileByteIOStream.FileByteOutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangtze.File.prevKnowledge.Calc" />
+    <configuration name="FileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangtze.IOStream.FileByteIOStream.FileCopyCase.FileCopy" />
       <module name="File-IOStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangtze.File.prevKnowledge.*" />
+          <option name="PATTERN" value="com.yangtze.IOStream.FileByteIOStream.FileCopyCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeAndDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangtze.charSet.CodeAndDecode" />
+    <configuration name="ReadAllBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangtze.IOStream.FileByteIOStream.FileByteInputStream.ReadAllBytes" />
       <module name="File-IOStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangtze.charSet.*" />
+          <option name="PATTERN" value="com.yangtze.IOStream.FileByteIOStream.FileByteInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangtze.File.SearchFileCase.SearchFile" />
+    <configuration name="ReadMultiBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangtze.IOStream.FileByteIOStream.FileByteInputStream.ReadMultiBytes" />
       <module name="File-IOStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangtze.File.SearchFileCase.*" />
+          <option name="PATTERN" value="com.yangtze.IOStream.FileByteIOStream.FileByteInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangtze.IOStream.FileByteIOStream.TEST" />
+    <configuration name="ReadOneByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangtze.IOStream.FileByteIOStream.FileByteInputStream.ReadOneByte" />
       <module name="File-IOStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangtze.IOStream.FileByteIOStream.*" />
+          <option name="PATTERN" value="com.yangtze.IOStream.FileByteIOStream.FileByteInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BeerProb" />
-      <item itemvalue="Application.Calc" />
-      <item itemvalue="Application.CodeAndDecode" />
-      <item itemvalue="Application.SearchFile" />
-      <item itemvalue="Application.TEST" />
+      <item itemvalue="Application.FileCopy" />
+      <item itemvalue="Application.FileByteOutputStream" />
+      <item itemvalue="Application.ReadAllBytes" />
+      <item itemvalue="Application.ReadMultiBytes" />
+      <item itemvalue="Application.ReadOneByte" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TEST" />
-        <item itemvalue="Application.CodeAndDecode" />
-        <item itemvalue="Application.BeerProb" />
-        <item itemvalue="Application.SearchFile" />
-        <item itemvalue="Application.Calc" />
+        <item itemvalue="Application.FileCopy" />
+        <item itemvalue="Application.FileByteOutputStream" />
+        <item itemvalue="Application.ReadAllBytes" />
+        <item itemvalue="Application.ReadMultiBytes" />
+        <item itemvalue="Application.ReadOneByte" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +202,8 @@
       <workItem from="1718608385993" duration="621000" />
       <workItem from="1718629511791" duration="506000" />
       <workItem from="1718684929500" duration="14314000" />
+      <workItem from="1718703839678" duration="6403000" />
+      <workItem from="1718766424877" duration="2994000" />
     </task>
     <servers />
   </component>
